@@ -163,10 +163,6 @@ This project demonstrates the complete workflow of a classical machine learning 
 
 ---
 
-## Disclaimer
-
-This project is developed for educational and entertainment purposes only. The compatibility score is generated using a machine learning model trained on synthetic data and should not be considered an accurate representation of real-life relationships or emotions.
-
 ---
 
 ## License
